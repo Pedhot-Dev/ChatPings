@@ -1,0 +1,11 @@
+name: ChatPings
+main: fadij\chatpings\ChatPings
+version: 1.0.0
+api: [5.0.0]
+author: FadiJalal
+description: A configurable plugin that sends a sound when a player is mentioned in chat.
+
+permissions:
+  chatpings.command.pingtoggle:
+    description: Allows the player to toggle chat pings
+    default: true

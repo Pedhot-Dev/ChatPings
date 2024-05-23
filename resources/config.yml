@@ -1,0 +1,5 @@
+# ChatPings Configuration
+# sound-type Options: "xp", "click"
+pings-enabled: true
+enable-sound: true
+sound-type: "xp"
